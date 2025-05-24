@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/631237211793075149/695e214505574e2aad79efa3ef5c9731/artifacts
+end_time: 1748059638348
+entry_point_name: ''
+experiment_id: '631237211793075149'
+lifecycle_stage: active
+run_id: 695e214505574e2aad79efa3ef5c9731
+run_name: skittish-shrew-35
+run_uuid: 695e214505574e2aad79efa3ef5c9731
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748059638200
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/713162913013001700/7b0febc4c44646f59181a7dcaec59552/artifacts
+end_time: 1748059588413
+entry_point_name: ''
+experiment_id: '713162913013001700'
+lifecycle_stage: active
+run_id: 7b0febc4c44646f59181a7dcaec59552
+run_name: gentle-duck-988
+run_uuid: 7b0febc4c44646f59181a7dcaec59552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748059588236
+status: 3
+tags: []
+user_id: HP
